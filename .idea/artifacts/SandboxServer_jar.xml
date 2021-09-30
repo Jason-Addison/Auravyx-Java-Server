@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SandboxServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SandboxServer_jar</output-path>
+    <root id="archive" name="SandboxServer.jar">
+      <element id="module-output" name="SandboxServer" />
+    </root>
+  </artifact>
+</component>
